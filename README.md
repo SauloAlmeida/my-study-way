@@ -13,7 +13,7 @@
 
 Durante anos, tentei estudar de forma efetiva, mas sempre me deparei com a famosa procrastinação e, consequentemente, a desistência.
 
-O que me frustrava era o fato de ter (e na verdade, nem eu nem você) que saber de tudo. Sempre havia um assunto novo do momento, tecnologias que a empresa X ou Y utilizava e eu não dominava.
+O que me frustrava era o fato de ter (e na verdade, eu não tenho e nem você) que saber de tudo. Sempre havia um assunto novo do momento, tecnologias que as empresas X ou Y utilizavam e eu não dominava.
 
 Com isso, eu parava o que estava estudando, ia atrás de outro conhecimento e, na maioria das vezes, não concluía nada que começava. Infelizmente, isso se tornava um ciclo.
 
@@ -45,7 +45,7 @@ Aqui é o item mais simples. Eu fiz novamente os itens 1, 2 e 3. 😁
 
 Sou um cara que está tentando dar o seu melhor a cada dia e sempre colocando minha saúde, principalmente a mental, em primeiro lugar. Gosto de ajudar e de desafios.
 
-Ah, sou desenvolvedor backend há cerca de 4 anos também .
+Ah, sou desenvolvedor backend há cerca de 4 anos também.
 
 ## Contato
 
